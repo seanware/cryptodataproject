@@ -17,7 +17,7 @@ A VM will be created to perform data ingestion using Apache Airflow
 ## Create Project on Cloud console
 1. A projects was created a the google console name pipeline Project
 
-#####Check IAM settings
+##### Check IAM settings
 Identity and Acces Management settings were created
 
 1. The veiwer role for the Storage Admin + Storage Object Admin + BigQuery 
